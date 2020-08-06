@@ -37,7 +37,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Injoon Oh](https://github.com/injoon5).<br />
-This project is [LICENCE](https://github.com/jusochang2020/jusochang2020.github.io/blob/master/LICENSE.txt) licensed.
+This project is [The MIT License (MIT)](https://github.com/jusochang2020/jusochang2020.github.io/blob/master/LICENSE.txt) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
