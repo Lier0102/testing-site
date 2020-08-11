@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> A portfolio/website for @jusochang2020 .
+> A portfolio/website for @jusochang2020.
 
 ### 🏠 [Homepage](http://sjscwin.ga)
 
