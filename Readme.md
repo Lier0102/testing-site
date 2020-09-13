@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to jusochang2020.github.io 👋</h1>
+<h1 align="center">Welcome to 
+Friend-circle.github.io 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.5-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/jusochang2020/jusochang2020.github.io/blob/master/Documentation.md" target="_blank">
@@ -9,14 +10,14 @@
   </a>
 </p>
 
-> A portfolio/website for @jusochang2020.
+> A portfolio/website for @Friend-circle
 
-### 🏠 [Homepage](http://sjscwin.ga)
+### 🏠 [Homepage](http://Friend-circle.github.io)
 
 ## Install
 
-```sh
-jekyll build
+```text
+Just deploy on github pages.
 ```
 
 ## Author
@@ -37,7 +38,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Injoon Oh](https://github.com/injoon5).<br />
-This project is [The MIT License (MIT)](https://github.com/jusochang2020/jusochang2020.github.io/blob/master/LICENSE.txt) licensed.
+This project is [The MIT License (MIT)](/blob/master/LICENSE.txt) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
